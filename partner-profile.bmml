@@ -1,0 +1,420 @@
+<mockup version="1.0" skin="sketch" measuredW="1190" measuredH="819" mockupW="1174" mockupH="772">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="556" y="450" w="58" h="-1" measuredW="48" measuredH="69" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Clarge</icon>
+        <text>Partner</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="440" y="437" w="291" h="265" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Partner%20Profile%20-%20WE20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="455" y="534" w="-1" h="-1" measuredW="122" measuredH="84" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inbound%20Parameters%0A%5Bx%5D%20ORDERS%0A%5Bx%5D%20ORDCHG%0A%5B%20%5D%20XXX</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="592" y="536" w="-1" h="-1" measuredW="131" measuredH="105" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Outbound%20Parameters%0A%5Bx%5D%20INVOIC%0A%5Bx%5D%20DESADV%0A%5Bx%5D%20ORDRSP%0A%5B%20%5D%20XXX</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Arrow" x="691" y="458" w="106" h="113" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Arrow" x="691" y="603" w="106" h="15" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <curvature>1</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::FieldSet" x="167" y="470" w="177" h="107" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::FieldSet" x="167" y="588" w="177" h="107" measuredW="200" measuredH="170" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="226" y="610" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDC</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="178" y="640" w="-1" h="-1" measuredW="155" measuredH="42" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28%29%20Trigger%20in%20Background%0A%28o%29%20%20Trigger%20Immediately</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Arrow" x="344" y="585" w="104" h="60" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::FieldSet" x="797" y="588" w="212" h="231" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="856" y="605" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PORT</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="808" y="635" w="-1" h="-1" measuredW="195" measuredH="42" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Transfer%20%20IDOCs%20Immediately%0A%28%20%29%20%20Collect%20IDOCs</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="880" y="715" w="-1" h="-1" measuredW="91" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDERS05</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="797" y="680" w="212" h="73" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>6989903</color>
+        <text>IDOC%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::List" x="797" y="751" w="212" h="66" measuredW="100" measuredH="126" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15134199</alternateRowColor>
+        <hasHeader>true</hasHeader>
+        <selectedIndex>-1</selectedIndex>
+        <text>Output%0ABA00%09SD10%0AZA00%09ZSD1</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::FieldSet" x="797" y="331" w="212" h="231" measuredW="200" measuredH="170" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="856" y="348" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PORT</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="808" y="378" w="-1" h="-1" measuredW="196" measuredH="42" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28%29%20Transfer%20%20IDOCs%20Immediately%0A%28o%29%20%20Collect%20IDOCs</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="797" y="423" w="212" h="73" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>6989903</color>
+        <text>IDOC%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="864" y="458" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>INVOIC02</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Arrow" x="211" y="420" w="52" h="69" measuredW="150" measuredH="100" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="49" y="410" w="155" h="27" measuredW="162" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>IDOC_INPUT_ORDERS</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Tooltip" x="239" y="381" w="150" h="59" measuredW="126" measuredH="59" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>Process%20Code%20to%20FM%20Mapping%20in%20WE64%20or%20WE42</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="62" y="556" w="78" h="27" measuredW="56" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>BD20</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Tooltip" x="109" y="702" w="139" h="53" measuredW="135" measuredH="53" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>IDOC%20will%20be%20immediately%20processed</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Arrow" x="111" y="671" w="65" h="26" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Tooltip" x="16" y="584" w="139" h="53" measuredW="119" measuredH="53" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>IDOCs%20will%20wait%20until%20BD20%20is%20run</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Arrow" x="930" y="410" w="103" h="28" measuredW="150" measuredH="100" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="1040" y="420" w="78" h="27" measuredW="59" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>WE14</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Tooltip" x="1029" y="450" w="139" h="53" measuredW="119" measuredH="53" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>IDOCs%20will%20wait%20until%20WE14%20is%20run</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Tooltip" x="1036" y="686" w="139" h="56" measuredW="128" measuredH="56" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>IDOCs%20will%20be%20passed%20to%20subsystem%20immediately</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Arrow" x="1008" y="648" w="55" h="34" measuredW="150" measuredH="100" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="189" y="519" w="-1" h="-1" measuredW="154" measuredH="42" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Trigger%20in%20Background%0A%28%29%20%20Trigger%20Immediately</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="226" y="485" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDE</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Arrow" x="344" y="512" w="104" h="60" measuredW="150" measuredH="100" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <curvature>1</curvature>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Arrow" x="102" y="529" w="65" h="26" measuredW="150" measuredH="100" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Arrow" x="882" y="233" w="82" h="72" measuredW="150" measuredH="100" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Button" x="962" y="218" w="78" h="27" measuredW="56" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>tRFC</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Tooltip" x="1040" y="229" w="139" h="53" measuredW="119" measuredH="53" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>Use%20tRFC%20ports%20for%20ALE%20in%20general</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1048" y="158" w="109" h="27" measuredW="115" measuredH="27" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <text>RFC%20Destination</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Arrow" x="986" y="173" w="62" h="45" measuredW="150" measuredH="100" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Tooltip" x="1018" y="96" w="139" h="53" measuredW="136" measuredH="53" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>tRFC%20ports%20are%20directly%20linked%20to%20a%20RFC%20Destination</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Button" x="731" y="218" w="78" h="27" measuredW="40" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>file</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Arrow" x="808" y="233" w="78" h="70" measuredW="150" measuredH="100" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Tooltip" x="653" y="245" w="144" h="60" measuredW="138" measuredH="60" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>Use%20file%20Ports%20for%20non-RFC%20enabled%20systems%20%28%20eg.%2C%20EDI%20Subsystems%29</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::FieldSet" x="567" y="89" w="149" h="111" measuredW="200" measuredH="170" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Arrow" x="723" y="179" w="62" h="45" measuredW="150" measuredH="100" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Button" x="582" y="110" w="109" h="27" measuredW="86" measuredH="27" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Directories</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Button" x="582" y="150" w="109" h="27" measuredW="115" measuredH="27" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>RFC%20Destination</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Tooltip" x="723" y="80" w="177" h="85" measuredW="173" measuredH="85" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>10</size>
+        <text>File%20ports%20have%20directories%20where%20the%20inb/out%20files%20are%20stored%20and%20the%20RFC%20Destination%20where%20stored</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::FieldSet" x="556" y="47" w="634" h="258" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Port%20Definiton%20-%20WE21</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Arrow" x="880" y="299" w="10" h="51" measuredW="150" measuredH="100" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::FieldSet" x="87" y="85" w="258" h="156" measuredW="200" measuredH="170" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Programs</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Button" x="96" y="110" w="78" h="27" measuredW="56" measuredH="27" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>BD20</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="203" y="113" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RBDAPP01</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Button" x="96" y="150" w="78" h="27" measuredW="59" measuredH="27" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>WE14</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="203" y="153" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RSEOUT00</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="203" y="192" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RSECHK07</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="96" y="189" w="78" h="27" measuredW="69" measuredH="27" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>CHECK</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
