@@ -96,7 +96,7 @@
         <text>Outbound%20Parameters%0A%5Bx%5D%20INVOIC%0A%5Bx%5D%20DESADV%0A%5Bx%5D%20ORDRSP</text>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Arrow" x="300" y="80" w="75" h="83" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Arrow" x="313" y="73" w="62" h="90" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <rightArrow>false</rightArrow>
         <text/>
