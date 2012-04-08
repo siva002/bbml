@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1285" measuredH="1650" mockupW="1258" mockupH="1628">
+<mockup version="1.0" skin="sketch" measuredW="1285" measuredH="1666" mockupW="1258" mockupH="1644">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="482" y="34" w="286" h="103" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -59,7 +59,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="751" y="22" w="-1" h="-1" measuredW="37" measuredH="43" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="751" y="22" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -82,7 +82,7 @@
         <text>Inbound%0A%5Bx%5D%20ORDERS</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="768" y="790" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="768" y="790" w="-1" h="-1" measuredW="39" measuredH="43" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -185,7 +185,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::CallOut" x="751" y="1092" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::CallOut" x="751" y="1092" w="-1" h="-1" measuredW="38" measuredH="43" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
@@ -202,6 +202,34 @@
         <direction>bottom</direction>
         <rightArrow>false</rightArrow>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="166" y="1306" w="-1" h="-1" measuredW="144" measuredH="16" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <state>disabled</state>
+        <text>Screenshot%20is%20Copyright%20of%20SAP%20AG</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="966" y="1337" w="-1" h="-1" measuredW="144" measuredH="16" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <state>disabled</state>
+        <text>Screenshot%20is%20Copyright%20of%20SAP%20AG</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="930" y="1546" w="-1" h="-1" measuredW="144" measuredH="16" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <state>disabled</state>
+        <text>Screenshot%20is%20Copyright%20of%20SAP%20AG</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="256" y="1650" w="-1" h="-1" measuredW="144" measuredH="16" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <state>disabled</state>
+        <text>Screenshot%20is%20Copyright%20of%20SAP%20AG</text>
       </controlProperties>
     </control>
   </controls>
