@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1249" measuredH="1322" mockupW="1210" mockupH="1318">
+<mockup version="1.0" skin="sketch" measuredW="1249" measuredH="1010" mockupW="1210" mockupH="1006">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="522" y="171" w="727" h="614" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -155,29 +155,24 @@
         <text>WE60</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="324" y="895" w="124" h="64" measuredW="113" measuredH="51" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="324" y="895" w="124" h="64" measuredW="119" measuredH="64" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>IDOC%20Type%20Documentation</text>
         <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="515" y="1244" w="151" h="78" measuredW="151" measuredH="84" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5Bx%5D%20POSEX%09CHAR%206%0A%5Bx%5D%20PSTYP%09CHAR%204%0A%5Bx%5D%20MENGE%09NUMERIC%206%0A-------%09%09------</text>
-      </controlProperties>
-    </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::FieldSet" x="522" y="880" w="548" h="130" measuredW="200" measuredH="170" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::FieldSet" x="522" y="880" w="548" h="130" measuredW="200" measuredH="170" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
         <text>Extending%20IDOCs%20-%20WE30</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="537" y="903" w="-1" h="-1" measuredW="379" measuredH="105" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="537" y="903" w="-1" h="-1" measuredW="379" measuredH="105" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5Bx%5D%20Standard%20IDOC%20Types%20CANNOT%20be%20modified%0A%5Bx%5D%20Z%20IDOC%20Types%20can%20be%20created%0A%5Bx%5D%20Extended%20Segments%20can%20ONLY%20be%20added%20as%20Child%20Segments%0A%5Bx%5D%20ABAP%20Consultant%20can%20do%20all%20of%20these%20and%20more.%0A-------%09%09------</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="438" y="156" w="92" h="66" measuredW="150" measuredH="100" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="438" y="156" w="92" h="66" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.75</backgroundAlpha>
         <color>6710886</color>
@@ -187,70 +182,70 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::FieldSet" x="681" y="4" w="268" h="130" measuredW="200" measuredH="170" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::FieldSet" x="681" y="4" w="268" h="130" measuredW="200" measuredH="170" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
         <text>Message%20Type%20%3C%20to%20%3E%20IDOC%20Type%20-%20WE82</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="725" y="19" w="-1" h="-1" measuredW="180" measuredH="105" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="725" y="19" w="-1" h="-1" measuredW="180" measuredH="105" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5Bx%5D%20ORDERS%09ORDERS04%0A%5Bx%5D%20ORDERS%09ORDERS05%0A%5Bx%5D%20ORDCHG%09ORDERS05%0A%5Bx%5D%20PURCHG%09ORDERS05%0A-------%09%09------</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Tooltip" x="958" y="5" w="183" h="71" measuredW="126" measuredH="83" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Tooltip" x="958" y="5" w="183" h="71" measuredW="187" measuredH="71" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <text>IDOC%20Types%20and%20Message%20Types%20have%20a%20ONE-TO-MANY%20Relationship</text>
         <tooltipDirection>SW</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="537" y="233" w="87" h="27" measuredW="73" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="537" y="233" w="87" h="27" measuredW="73" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <text>SENDER</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::Button" x="639" y="233" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Button" x="639" y="233" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <text>RECEIVER</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="572" y="270" w="121" h="27" measuredW="122" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="572" y="270" w="121" h="27" measuredW="122" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <text>MESSAGE%20TYPE</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::FieldSet" x="530" y="211" w="248" h="111" measuredW="200" measuredH="170" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::FieldSet" x="530" y="211" w="248" h="111" measuredW="200" measuredH="170" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Control%20Record</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Tooltip" x="296" y="76" w="148" h="80" measuredW="121" measuredH="67" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Tooltip" x="296" y="76" w="148" h="80" measuredW="144" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Control%20Record%20Inserted%20into%20every%20IDOC%20at%20Run%20Time</text>
         <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::FieldSet" x="530" y="645" w="263" h="126" measuredW="200" measuredH="170" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::FieldSet" x="530" y="645" w="263" h="126" measuredW="200" measuredH="170" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Status%20Records</text>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="537" y="667" w="87" h="27" measuredW="40" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="537" y="667" w="87" h="27" measuredW="40" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <text>03</text>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="537" y="701" w="87" h="27" measuredW="40" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="537" y="701" w="87" h="27" measuredW="40" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <text>30</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Arrow" x="420" y="694" w="110" h="85" measuredW="150" measuredH="100" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Arrow" x="420" y="694" w="110" h="85" measuredW="150" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.75</backgroundAlpha>
         <color>6710886</color>
@@ -259,24 +254,24 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Tooltip" x="276" y="779" w="157" h="94" measuredW="156" measuredH="86" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Tooltip" x="276" y="779" w="157" h="94" measuredW="160" measuredH="94" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Multiple%20Status%20Records%20inserted%20into%20IDOC%20at%20Runtime.%20Goto%20WE47%20for%20full%20list</text>
         <tooltipDirection>NE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="537" y="736" w="87" h="27" measuredW="50" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="537" y="736" w="87" h="27" measuredW="50" measuredH="27" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <text>...%20...%20</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="628" y="669" w="112" h="23" measuredW="112" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="628" y="669" w="112" h="23" measuredW="112" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Passed%20to%20Port%20OK</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="628" y="703" w="126" h="25" measuredW="116" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="628" y="703" w="126" h="25" measuredW="116" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ready%20for%20Dispatch</text>
       </controlProperties>
