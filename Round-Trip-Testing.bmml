@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1236" measuredH="3722" mockupW="1209" mockupH="3708">
+<mockup version="1.0" skin="sketch" measuredW="1246" measuredH="3722" mockupW="1219" mockupH="3708">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="1059" y="441" w="150" h="103" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
@@ -218,11 +218,11 @@
         <text>WE15</text>
       </controlProperties>
     </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="795" y="465" w="146" h="40" measuredW="103" measuredH="29" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="795" y="465" w="146" h="40" measuredW="105" measuredH="29" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <size>20</size>
-        <text>DESADV</text>
+        <text>ORDRSP</text>
       </controlProperties>
     </control>
     <control controlID="74" controlTypeID="com.balsamiq.mockups::FieldSet" x="1059" y="584" w="150" h="103" measuredW="200" measuredH="170" zOrder="36" locked="false" isInGroup="-1">
@@ -276,11 +276,11 @@
         <text>WE14</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Button" x="520" y="458" w="146" h="40" measuredW="103" measuredH="29" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Button" x="520" y="458" w="146" h="40" measuredW="105" measuredH="29" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <size>20</size>
-        <text>DESADV</text>
+        <text>ORDRSP</text>
       </controlProperties>
     </control>
     <control controlID="85" controlTypeID="com.balsamiq.mockups::Button" x="520" y="601" w="146" h="40" measuredW="103" measuredH="29" zOrder="45" locked="false" isInGroup="-1">
@@ -530,13 +530,13 @@
         <text>Maintain%20Condition%20Records</text>
       </controlProperties>
     </control>
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="865" y="1485" w="-1" h="-1" measuredW="259" measuredH="444" zOrder="77" locked="false" isInGroup="-1">
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="905" y="1945" w="-1" h="-1" measuredW="259" measuredH="444" zOrder="77" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/output-condition-records.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::FieldSet" x="855" y="1466" w="281" h="478" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::FieldSet" x="895" y="1926" w="281" h="478" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <text>Output%20Condition%20Records</text>
@@ -614,7 +614,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::Arrow" x="624" y="1757" w="232" h="244" measuredW="150" measuredH="100" zOrder="90" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Arrow" x="776" y="2102" w="119" h="28" measuredW="150" measuredH="100" zOrder="90" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <curvature>1</curvature>
@@ -622,6 +622,152 @@
         <leftArrow>true</leftArrow>
         <rightArrow>false</rightArrow>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::FieldSet" x="717" y="1552" w="527" h="198" measuredW="200" measuredH="170" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>OUTBOUND%20Parameters</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Button" x="725" y="1613" w="-1" h="-1" measuredW="68" measuredH="27" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>INVOIC</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Button" x="803" y="1613" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SUBSYSTEM</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Button" x="911" y="1613" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>INVOIC2</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Button" x="1018" y="1613" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RD04</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Button" x="1088" y="1613" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SD04</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::Tooltip" x="1125" y="1567" w="121" h="53" measuredW="116" measuredH="79" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Process%20Code</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Tooltip" x="1109" y="1480" w="121" h="53" measuredW="116" measuredH="53" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Process%20Code</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Arrow" x="1042" y="1527" w="77" h="86" measuredW="150" measuredH="100" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Tooltip" x="947" y="1474" w="121" h="53" measuredW="100" measuredH="53" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IDOC%20Type</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Arrow" x="938" y="1527" w="26" h="86" measuredW="150" measuredH="100" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Button" x="725" y="1653" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="102" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDRSP</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Button" x="803" y="1653" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="103" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SUBSYSTEM</text>
+      </controlProperties>
+    </control>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Button" x="911" y="1653" w="-1" h="-1" measuredW="91" measuredH="27" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDERS05</text>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::Button" x="1018" y="1653" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="105" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BA01</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Button" x="1088" y="1653" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SD10</text>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Button" x="727" y="1693" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DESADV</text>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Button" x="805" y="1693" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SUBSYSTEM</text>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Button" x="913" y="1693" w="-1" h="-1" measuredW="87" measuredH="27" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DESADV01</text>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Button" x="1018" y="1693" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LAVA</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::Button" x="1086" y="1693" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SD05</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::FieldSet" x="717" y="1772" w="527" h="112" measuredW="200" measuredH="170" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>INBOUND%20Parameters</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Button" x="725" y="1833" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDERS</text>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::Button" x="852" y="1833" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ORDE</text>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Tooltip" x="895" y="1765" w="121" h="53" measuredW="116" measuredH="53" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Process%20Code</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="1028" y="1825" w="-1" h="-1" measuredW="154" measuredH="42" zOrder="116" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Trigger%20in%20Background%0A%28%20%29%20Trigger%20in%20Foreground</text>
       </controlProperties>
     </control>
   </controls>
