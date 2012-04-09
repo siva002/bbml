@@ -1,0 +1,82 @@
+<mockup version="1.0" skin="sketch" measuredW="572" measuredH="506" mockupW="284" mockupH="473">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="288" y="33" w="284" h="473" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Most%20Commonly%20Used%20User%20Exits%20in%20IDOCs</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="318" y="88" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>DEBMAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="448" y="88" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>VSV00001</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="318" y="161" w="-1" h="-1" measuredW="68" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>INVOIC</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="448" y="161" w="-1" h="-1" measuredW="87" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>LVEDF001</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="318" y="228" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>ORDERS</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="448" y="228" w="-1" h="-1" measuredW="89" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>VEDA0001</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="318" y="301" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>ORDRSP</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="448" y="301" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>SDEDI001</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="318" y="372" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>MATMAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="448" y="372" w="-1" h="-1" measuredW="89" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>MGV00001</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="318" y="441" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>DESADV</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="448" y="441" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>LVED2FZZ</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
