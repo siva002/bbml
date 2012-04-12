@@ -1,91 +1,362 @@
-<mockup version="1.0" skin="sketch" measuredW="891" measuredH="592" mockupW="643" mockupH="514">
+<mockup version="1.0" skin="sketch" measuredW="1162" measuredH="2310" mockupW="913" mockupH="2264">
   <controls>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="312" y="84" w="-1" h="-1" measuredW="519" measuredH="28" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="316" y="170" w="-1" h="-1" measuredW="519" measuredH="28" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>What%20are%20some%20of%20the%20Sub-Systems%20you%20have%20worked%20on%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="78" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="164" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="312" y="150" w="-1" h="-1" measuredW="466" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="316" y="236" w="-1" h="-1" measuredW="466" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>What%20are%20the%20Message%20Types%20you%20have%20worked%20on%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="144" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="230" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="312" y="218" w="-1" h="-1" measuredW="579" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="316" y="304" w="-1" h="-1" measuredW="579" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>What%20is%20the%20difference%20between%20IDOC%20Type%20and%20Message%20Type%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="212" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="298" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="312" y="284" w="-1" h="-1" measuredW="476" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="316" y="370" w="-1" h="-1" measuredW="476" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>What%20are%20the%20IDOC%20Types%20that%20you%20have%20worked%20on%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="278" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="364" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>4</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="312" y="359" w="-1" h="-1" measuredW="519" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="316" y="445" w="-1" h="-1" measuredW="572" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>What%20are%20some%20of%20the%20Sub-Systems%20you%20have%20worked%20on%20%3F</text>
+        <text>How%20do%20you%20Translate%20Customer%20%23%20to%20SAP%20Internal%20Customer%20%23%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="353" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="439" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>5</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="312" y="425" w="-1" h="-1" measuredW="466" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="316" y="511" w="-1" h="-1" measuredW="324" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>What%20are%20the%20Message%20Types%20you%20have%20worked%20on%20%3F</text>
+        <text>Can%20you%20edit%20an%20errored%20out%20IDOC%20%3F%20</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="419" w="-1" h="-1" measuredW="38" measuredH="37" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="505" w="-1" h="-1" measuredW="38" measuredH="37" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>6</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="312" y="493" w="-1" h="-1" measuredW="579" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="316" y="578" w="-1" h="-1" measuredW="612" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>What%20is%20the%20difference%20between%20IDOC%20Type%20and%20Message%20Type%20%3F</text>
+        <text>What%20is%20the%20differnce%20between%20editing%20an%20IDOC%20in%20WE02%20and%20WE19%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="487" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="573" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>7</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="312" y="559" w="-1" h="-1" measuredW="476" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="316" y="645" w="-1" h="-1" measuredW="621" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>What%20are%20the%20IDOC%20Types%20that%20you%20have%20worked%20on%20%3F</text>
+        <text>Can%20you%20give%20some%20examples%20of%20the%20IDOC%20Statuses%20that%20you%20know%20of%20%3F</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="553" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="639" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>8</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="316" y="711" w="-1" h="-1" measuredW="421" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20difference%20between%20ALE%20and%20EDI%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="707" w="-1" h="-1" measuredW="38" measuredH="37" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>9</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="316" y="779" w="-1" h="-1" measuredW="414" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20difference%20between%20EDI%20and%20IDOC</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="773" w="-1" h="-1" measuredW="44" measuredH="39" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>10</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="316" y="846" w="-1" h="-1" measuredW="601" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>How%20can%20you%20see%20the%20documentation%20behind%20a%20segment%20in%20an%20IDOC%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="841" w="-1" h="-1" measuredW="42" measuredH="37" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>11</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="316" y="913" w="-1" h="-1" measuredW="732" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20some%20of%20the%20batch%20programs%20you%20have%20used%20during%20EDI/ALE%20Processing%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="907" w="-1" h="-1" measuredW="44" measuredH="40" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="329" y="46" w="-1" h="-1" measuredW="680" measuredH="51" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>40</size>
+        <text>Most%20Commonly%20asked%20EDI%20Questions</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="316" y="979" w="-1" h="-1" measuredW="544" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>How%20to%20trigger%20order%20response%20as%20soon%20as%20an%20order%20is%20saved%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="973" w="-1" h="-1" measuredW="44" measuredH="40" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>13</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1045" w="-1" h="-1" measuredW="436" measuredH="28" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Can%20BD87%20be%20used%20for%20outbound%20procesing%20also%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1039" w="-1" h="-1" measuredW="45" measuredH="39" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>14</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1113" w="-1" h="-1" measuredW="551" measuredH="28" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20a%20Partner%20Profile%20%3F%20Where%20and%20why%20do%20you%20maintain%20it%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1109" w="-1" h="-1" measuredW="43" measuredH="37" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>15</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1179" w="-1" h="-1" measuredW="610" measuredH="28" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20Master%20Data%20Distribution%20model%20%3F%20Where%20do%20you%20configure%20it%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1173" w="-1" h="-1" measuredW="44" measuredH="37" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>16</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1254" w="-1" h="-1" measuredW="813" measuredH="28" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Have%20you%20worked%20on%20Master%20Data%20Distribution%20model%20%3F%20What%20scenarios%20have%20you%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1248" w="-1" h="-1" measuredW="44" measuredH="39" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>17</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1320" w="846" h="52" measuredW="1311" measuredH="28" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>During%20Order%20processing%2C%20lets%20say%20the%20Customer%20Material%20Number%20needs%20to%20be%20translated%20to%20SAP%20Material%20Number.%20How%20do%20you%20approach%20this%20problem%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1314" w="-1" h="-1" measuredW="44" measuredH="40" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>18</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1387" w="776" h="52" measuredW="1226" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>During%20Order%20Processing%2C%20lets%20say%20the%20Customer%20Store%20needs%20to%20be%20translated%20to%20SAP%20Customer%20Ship-to.%20How%20do%20you%20approach%20this%20problem%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1382" w="-1" h="-1" measuredW="44" measuredH="39" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>19</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1454" w="-1" h="-1" measuredW="694" measuredH="28" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Legacy%20System%20has%201000%20Partner%20Profiles.%20How%20do%20you%20recreate%20them%20in%20SAP%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1448" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1520" w="-1" h="-1" measuredW="446" measuredH="28" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20typical%20volume%20of%20IDOCs%20you%20handled%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1516" w="-1" h="-1" measuredW="44" measuredH="39" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>21</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1588" w="-1" h="-1" measuredW="305" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Do%20IDOCs%20have%20number%20ranges%20%3F%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1582" w="-1" h="-1" measuredW="47" measuredH="39" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>22</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1655" w="-1" h="-1" measuredW="504" measuredH="28" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>How%20did%20you%20handle%20errored%20out%20IDOCs%20in%20your%20last%20client%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1650" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>23</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="316" y="1722" w="-1" h="-1" measuredW="524" measuredH="28" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Can%20you%20use%20same%20IDOC%20type%20for%20multiple%20message%20types%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::CallOut" x="252" y="1716" w="-1" h="-1" measuredW="47" measuredH="39" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>24</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="313" y="1788" w="-1" h="-1" measuredW="520" measuredH="28" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Why%20would%20you%20ever%20have%20to%20create%20a%20%20new%20process%20code%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="1782" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>25</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="313" y="1854" w="846" h="52" measuredW="667" measuredH="28" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20process%20code%20you%20used%20for%20standard%20inbound%20order%20processing%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="1848" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>26</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="313" y="1921" w="776" h="52" measuredW="1142" measuredH="28" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>If%20you%20want%20to%20introduce%20a%20new%20IDOC%20type%20for%20a%20particular%20Partner%20for%20Order%20Processing.%20What%20are%20the%20steps%20you%20would%20have%20to%20do%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="1916" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>27</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="313" y="1988" w="731" h="51" measuredW="799" measuredH="28" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>When%20change%20pointers%20are%20enabled%2C%20do%20IDOCs%20get%20triggered%20during%20Master%20data%20Creation%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="1982" w="-1" h="-1" measuredW="46" measuredH="40" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>28</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="313" y="2054" w="750" h="53" measuredW="1093" measuredH="28" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>If%20materials%20require%20Serial%20Numbers%20and%20let%27s%20say%20it%20is%20NOT%20available%20in%20standard%20ORDRSP%20idoc%20type.%20How%20do%20you%20handle%20this%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="2050" w="-1" h="-1" measuredW="46" measuredH="39" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>29</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="313" y="2122" w="-1" h="-1" measuredW="624" measuredH="28" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20difference%20between%20creating%20an%20Order%20via%20IDOC%20vs%20BAPI%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="2116" w="-1" h="-1" measuredW="46" measuredH="43" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>30</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="313" y="2189" w="-1" h="-1" measuredW="751" measuredH="28" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>If%20you%20want%20custom%20fields%20in%20Additional%20data%20B%20to%20go%20in%20ORDRSP%20%2C%20how%20to%20you%20handle%20it%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="2184" w="-1" h="-1" measuredW="44" measuredH="39" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>31</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="313" y="2256" w="849" h="54" measuredW="270" measuredH="28" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>How%20do%20you%20search%20an%20IDOC%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::CallOut" x="249" y="2250" w="-1" h="-1" measuredW="47" measuredH="37" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>32</text>
       </controlProperties>
     </control>
   </controls>
