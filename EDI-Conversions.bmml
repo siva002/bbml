@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1234" measuredH="550" mockupW="1122" mockupH="507">
+<mockup version="1.0" skin="sketch" measuredW="1234" measuredH="1037" mockupW="1122" mockupH="994">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="577" y="52" w="-1" h="-1" measuredW="115" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -75,7 +75,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Tooltip" x="334" y="322" w="119" h="51" measuredW="106" measuredH="45" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Tooltip" x="334" y="322" w="119" h="51" measuredW="106" measuredH="51" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <text>Order%20Confirmation</text>
@@ -92,7 +92,7 @@
         <text>EDPAR</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Tooltip" x="1074" y="52" w="145" h="62" measuredW="111" measuredH="51" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Tooltip" x="1074" y="52" w="145" h="62" measuredW="147" measuredH="62" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <text>This%20is%20what%20comes%20in%20the%20IDOC</text>
@@ -154,7 +154,7 @@
         <text>1400</text>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Tooltip" x="1065" y="403" w="169" h="62" measuredW="138" measuredH="67" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Tooltip" x="1065" y="403" w="169" h="62" measuredW="163" measuredH="62" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <text>What%20we%20call%20Ship-to%27s%20might%20be%20STOREs%20to%20WALMART</text>
@@ -174,10 +174,110 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="745" y="43" w="186" h="79" measuredW="152" measuredH="83" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="745" y="43" w="186" h="79" measuredW="190" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <text>WALMART%27s%20STORE1%20will%20be%20Translated%20during%20IDOC%20Processing%20to%201200%20Ship-to</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::FieldSet" x="504" y="580" w="317" h="457" measuredW="200" measuredH="170" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>ORDERS05%20IDOC%20Segments</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="667" w="-1" h="-1" measuredW="190" measuredH="29" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDKA1%2CAG%2C1000</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="696" w="-1" h="-1" measuredW="207" measuredH="29" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDKA1%2CSH%2CSTORE1</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::ButtonBar" x="574" y="765" w="-1" h="-1" measuredW="181" measuredH="29" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDK14%2C012%2COR</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="794" w="-1" h="-1" measuredW="194" measuredH="29" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDK14%2C008%2C1000</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="823" w="-1" h="-1" measuredW="178" measuredH="29" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDK14%2C007%2C10</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="852" w="-1" h="-1" measuredW="180" measuredH="29" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDK14%2C006%2C00</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="923" w="-1" h="-1" measuredW="159" measuredH="29" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDP01%2C10%2C1</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Icon" x="526" y="921" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ReloadIcon%7Cmedium</icon>
+        <rotation>90</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::ButtonBar" x="615" y="974" w="-1" h="-1" measuredW="190" measuredH="29" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDP19%2C001%2CM-01</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="573" y="972" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ReloadIcon%7Cmedium</icon>
+        <rotation>90</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Tooltip" x="412" y="652" w="126" h="43" measuredW="121" measuredH="43" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>PARTNER%20Info</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::ButtonBar" x="573" y="623" w="-1" h="-1" measuredW="211" measuredH="29" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E1EDK01%2CBELNR%2C1000</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Tooltip" x="459" y="774" w="99" h="43" measuredW="87" measuredH="43" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>ORG%20Info</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Tooltip" x="430" y="896" w="96" h="43" measuredW="87" measuredH="43" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Item%20Info</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Tooltip" x="821" y="939" w="126" h="43" measuredW="106" measuredH="43" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Material%20Info</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Tooltip" x="805" y="645" w="179" h="73" measuredW="120" measuredH="67" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>STORE1%20goes%20into%20the%20LIFNR%20field%20of%20E1EDKA1</text>
         <tooltipDirection>SW</tooltipDirection>
       </controlProperties>
     </control>

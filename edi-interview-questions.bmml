@@ -1,0 +1,92 @@
+<mockup version="1.0" skin="sketch" measuredW="891" measuredH="592" mockupW="643" mockupH="514">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="312" y="84" w="-1" h="-1" measuredW="519" measuredH="28" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20some%20of%20the%20Sub-Systems%20you%20have%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="78" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="312" y="150" w="-1" h="-1" measuredW="466" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20the%20Message%20Types%20you%20have%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="144" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="312" y="218" w="-1" h="-1" measuredW="579" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20difference%20between%20IDOC%20Type%20and%20Message%20Type%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="212" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="312" y="284" w="-1" h="-1" measuredW="476" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20the%20IDOC%20Types%20that%20you%20have%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="278" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="312" y="359" w="-1" h="-1" measuredW="519" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20some%20of%20the%20Sub-Systems%20you%20have%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="353" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="312" y="425" w="-1" h="-1" measuredW="466" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20the%20Message%20Types%20you%20have%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="419" w="-1" h="-1" measuredW="38" measuredH="37" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>6</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="312" y="493" w="-1" h="-1" measuredW="579" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20the%20difference%20between%20IDOC%20Type%20and%20Message%20Type%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="487" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>7</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="312" y="559" w="-1" h="-1" measuredW="476" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20are%20the%20IDOC%20Types%20that%20you%20have%20worked%20on%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="553" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>8</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

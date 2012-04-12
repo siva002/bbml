@@ -1,0 +1,70 @@
+<mockup version="1.0" skin="sketch" measuredW="1216" measuredH="289" mockupW="1179" mockupH="259">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="37" y="69" w="339" h="197" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>BD50%20-%20Activate%20by%20Message%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="55" y="96" w="-1" h="-1" measuredW="303" measuredH="143" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/bd50.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="141" y="239" w="-1" h="-1" measuredW="144" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <state>disabled</state>
+        <text>Screenshot%20is%20Copyright%20of%20SAP%20AG</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="480" y="74" w="-1" h="-1" measuredW="569" measuredH="186" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/bd52.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="452" y="45" w="636" h="244" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>Select%20Fields%20that%20trigger%20IDOCs</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="698" y="255" w="-1" h="-1" measuredW="144" measuredH="16" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <state>disabled</state>
+        <text>Screenshot%20is%20Copyright%20of%20SAP%20AG</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::CallOut" x="362" y="56" w="-1" h="-1" measuredW="37" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="383" y="156" w="58" h="-1" measuredW="48" measuredH="69" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="1073" y="30" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="1088" y="141" w="58" h="-1" measuredW="48" measuredH="69" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SimpleArrowIcon%7Clarge</icon>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="1161" y="151" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>BD21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
