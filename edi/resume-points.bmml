@@ -1,0 +1,280 @@
+<mockup version="1.0" skin="sketch" measuredW="1220" measuredH="2283" mockupW="1154" mockupH="2257">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::CallOut" x="284" y="177" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="66" y="158" w="1154" h="574" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Highlights</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="346" y="183" w="-1" h="-1" measuredW="595" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Hands-on%20expertise%20in%20building%20interfaces%20using%20EDI%2C%20ALE%20and%20IDOCs</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::CallOut" x="284" y="284" w="-1" h="-1" measuredW="39" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="346" y="290" w="-1" h="-1" measuredW="633" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Experience%20in%20SAP%20ALE%2C%20EDI%20and%20IDOCs%20configuration%20and%20customization</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="584" y="230" w="-1" h="-1" measuredW="52" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>20</size>
+        <text>OR</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="584" y="350" w="-1" h="-1" measuredW="52" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>20</size>
+        <text>OR</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="282" y="400" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="344" y="406" w="-1" h="-1" measuredW="561" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Hands-on%20configuration%20experience%20with%20850%20%2C%20855%2C%20856%20and%20810</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="584" y="464" w="-1" h="-1" measuredW="52" measuredH="29" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>20</size>
+        <text>OR</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="284" y="522" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="346" y="528" w="648" h="57" measuredW="1069" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Hands-on%20experience%20in%20designing%2C%20configuring%20%2C%20testing%20and%20troubleshooting%20standard%20and%20custom%20EDI/ALE%20based%20interfaces</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="584" y="600" w="-1" h="-1" measuredW="52" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>20</size>
+        <text>OR</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::CallOut" x="284" y="644" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="346" y="650" w="648" h="57" measuredW="699" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Experienced%20in%20building%20ALE/EDI%20interfaces%20between%20SAP%20and%20external%20systems</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::FieldSet" x="66" y="755" w="1154" h="1528" measuredW="200" measuredH="170" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Details</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="770" w="38" h="39" measuredW="37" measuredH="39" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="169" y="770" w="1036" h="28" measuredW="650" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Involved%20with%20middleware%20mapping%20of%20legacy%20fields%20with%20SAP%20EDI%20segments</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="837" w="40" h="40" measuredW="39" measuredH="40" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="169" y="837" w="1010" h="56" measuredW="702" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Built%20custom%20IDOC%20interfaces%20between%20SAP%20and%203PL%20systems%20for%20stock%20updates</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::CallOut" x="102" y="912" w="39" h="39" measuredW="38" measuredH="39" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="166" y="913" w="844" h="28" measuredW="530" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Worked%20on%20LSMW%20scripts%20to%20migrate%20Partner%20Profiles%20to%20SAP</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1220" w="39" h="40" measuredW="38" measuredH="40" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>7</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1222" w="1033" h="57" measuredW="1180" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Performed%20GAP%20Analysis%20to%20map%20current%20processes%20with%20standard%20EDI%20processes%20to%20come%20up%20with%20recommendations%20for%20implementation</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="981" w="40" h="39" measuredW="39" measuredH="39" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="169" y="982" w="1010" h="64" measuredW="912" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Worked%20with%20EDI%20Subsystem%20consultants%20in%20field%20level%20mapping%20of%20850/855%20fields%20with%20SAP%20EDI%20segments</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1067" w="39" h="39" measuredW="38" measuredH="39" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1068" w="1010" h="64" measuredW="671" measuredH="28" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Lead%20the%20Integration%20testing%20efforts%20for%20EDI%20set-up%20with%20major%20EDI%20customers</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1144" w="39" h="39" measuredW="38" measuredH="39" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>6</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1146" w="1010" h="64" measuredW="638" measuredH="28" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Designed%20Custom%20IDOC%20interfaces%20between%20SAP%20and%20non-SAP%20Systems</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1298" w="39" h="43" measuredW="38" measuredH="43" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>8</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1301" w="1033" h="57" measuredW="911" measuredH="28" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Configured%20Partner%20Profiles%2C%20output%20determination%20and%20co-ordinated%20Ports%20and%20RFC%20destination%20with%20Basis</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1377" w="39" h="39" measuredW="38" measuredH="39" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>9</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1380" w="1033" h="57" measuredW="729" measuredH="28" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Configured%20EDPAR%20for%20EDI%20Conversion%20of%20Ship-to%27s%20and%20Payers%20for%20large%20Customers</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1455" w="45" h="40" measuredW="44" measuredH="40" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>10</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1458" w="1033" h="57" measuredW="836" measuredH="28" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Configured%20Change%20Pointers%20for%20master%20data%20distribution%20between%20SAP%20US%20and%20APAC%20instances</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1539" w="43" h="39" measuredW="42" measuredH="39" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>11</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1544" w="1033" h="57" measuredW="761" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Configured%20Change%20Pointers%20for%20Master%20Data%20Distribution%20between%20SAP%20and%20Peoplesoft</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1618" w="45" h="43" measuredW="44" measuredH="43" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1622" w="1033" h="57" measuredW="725" measuredH="28" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Set%20up%20batch%20processes%20for%20standard%20inbound/outbound%20IDOC%20processing%20Programs</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1690" w="45" h="39" measuredW="44" measuredH="39" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>13</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1695" w="1033" h="57" measuredW="591" measuredH="28" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Trained%20End%20Users%20on%20IDOC%20Editing%2C%20Correction%20and%20Re-Processing</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1762" w="46" h="39" measuredW="45" measuredH="39" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>14</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1767" w="1033" h="57" measuredW="801" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Configured%20%20standard%20%28%20ORDERS/ORDRSP/DESADV/INVOIC%20%29%20and%20custom%20message%20types%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Button" x="432" y="26" w="-1" h="-1" measuredW="452" measuredH="51" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>40</size>
+        <text>SAP%20EDI%20Resume%20Points</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1832" w="45" h="39" measuredW="44" measuredH="39" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>15</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1837" w="1033" h="57" measuredW="905" measuredH="28" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Configured%20%20standard%20%28%20ORDERS/ORDRSP/DEBMAS/CREMAS/MATMAS%20%29%20and%20custom%20message%20types%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::CallOut" x="104" y="1911" w="45" h="39" measuredW="44" measuredH="39" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>16</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="169" y="1917" w="1033" h="57" measuredW="671" measuredH="28" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Built%20custom%20interfaces%20with%203rd%20Party%20Systems%20via%20Flat%20File%2C%20XML%20and%20IDOCs</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
