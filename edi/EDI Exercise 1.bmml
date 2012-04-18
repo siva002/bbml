@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="sketch" measuredW="1133" measuredH="430" mockupW="1060" mockupH="404">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="432" y="26" w="-1" h="-1" measuredW="361" measuredH="51" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>40</size>
+        <text>SAP%20EDI%20Exercises</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="73" y="118" w="1060" h="312" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="140" w="-1" h="-1" measuredW="37" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="208" y="145" w="-1" h="-1" measuredW="128" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>What%20is%20EDI%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="213" w="37" h="43" measuredW="39" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="293" w="37" h="43" measuredW="38" measuredH="37" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="208" y="299" w="324" h="29" measuredW="284" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>EDI%20Sub-Systems%20%26%20Middleware</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="371" w="37" h="43" measuredW="39" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="208" y="377" w="232" h="29" measuredW="143" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>EDI%20Use%20Cases</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

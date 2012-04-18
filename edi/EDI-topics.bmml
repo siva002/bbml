@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="sketch" measuredW="1416" measuredH="1154" mockupW="1343" mockupH="1128">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="140" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="140" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -18,7 +18,7 @@
         <text>SAP%20EDI%20Topics</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="213" w="37" h="43" measuredW="39" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="213" w="37" h="43" measuredW="39" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -29,7 +29,7 @@
         <text>General%20EDI%20Architecture</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="293" w="37" h="43" measuredW="38" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="293" w="37" h="43" measuredW="38" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
@@ -46,7 +46,7 @@
         <text>General%20EDI%20Topics%20-%201%20Hour</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="371" w="37" h="43" measuredW="39" measuredH="40" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="371" w="37" h="43" measuredW="39" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>4</text>
       </controlProperties>
@@ -63,7 +63,7 @@
         <text>IDOCs%20-%201%20Hour</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="140" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="140" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -74,7 +74,7 @@
         <text>Message%20Types%20%26%20IDOC%20Types</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::CallOut" x="781" y="213" w="37" h="43" measuredW="39" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::CallOut" x="781" y="213" w="37" h="43" measuredW="39" measuredH="43" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -102,7 +102,7 @@
         <text>Inbound%20/%20Outbound%20Processing%20Scenarios%20in%20SD%20-%2030%20Mins</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="513" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="513" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -113,7 +113,7 @@
         <text>Full%20fledged%20Inbound%20Processing%20Flow</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="586" w="37" h="43" measuredW="39" measuredH="37" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="586" w="37" h="43" measuredW="39" measuredH="39" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -141,7 +141,7 @@
         <text>EDI%20Customization%20-%2030%20Mins</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="706" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="706" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -152,7 +152,7 @@
         <text>EDI%20Conversions</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="779" w="37" h="43" measuredW="39" measuredH="40" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="125" y="779" w="37" h="43" measuredW="39" measuredH="39" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -180,7 +180,7 @@
         <text>Standard%20SD%20IDOC%20Scenarios%20-%20Hands%20on%20-%201%20Hour</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="520" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="520" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -191,7 +191,7 @@
         <text>850</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::CallOut" x="781" y="593" w="37" h="43" measuredW="39" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::CallOut" x="781" y="593" w="37" h="43" measuredW="39" measuredH="40" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -202,12 +202,12 @@
         <text>855</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::CallOut" x="979" y="520" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::CallOut" x="979" y="520" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="1063" y="525" w="-1" h="-1" measuredW="41" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="1063" y="525" w="-1" h="-1" measuredW="43" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>856</text>
@@ -265,7 +265,7 @@
         <text>ALE%20-%201%20Hour</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="713" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="713" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -276,7 +276,7 @@
         <text>ALE%20vs%20EDI%20vs%20IDOC</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::CallOut" x="781" y="786" w="37" h="43" measuredW="39" measuredH="39" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::CallOut" x="781" y="786" w="37" h="43" measuredW="39" measuredH="40" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -294,7 +294,7 @@
         <text>6</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="856" w="37" h="43" measuredW="38" measuredH="40" zOrder="51" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::CallOut" x="780" y="856" w="37" h="43" measuredW="38" measuredH="39" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>

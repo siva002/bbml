@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="572" measuredH="506" mockupW="284" mockupH="473">
+<mockup version="1.0" skin="sketch" measuredW="1402" measuredH="506" mockupW="1114" mockupH="473">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="288" y="33" w="284" h="473" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -30,7 +30,7 @@
         <text>LVEDF001</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="318" y="228" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="318" y="228" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6989903</color>
         <text>ORDERS</text>
@@ -66,7 +66,7 @@
         <text>MGV00001</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="318" y="441" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="318" y="441" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6989903</color>
         <text>DESADV</text>
@@ -76,6 +76,42 @@
       <controlProperties>
         <color>15843890</color>
         <text>LVED2FZZ</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::CallOut" x="606" y="111" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="680" y="117" w="-1" h="-1" measuredW="203" measuredH="29" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <size>20</size>
+        <text>Identify%20the%20main%20FM</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::CallOut" x="606" y="181" w="-1" h="-1" measuredW="39" measuredH="40" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="680" y="187" w="-1" h="-1" measuredW="244" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <size>20</size>
+        <text>Search%20for%20Call%20Customer</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::CallOut" x="606" y="246" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="680" y="252" w="-1" h="-1" measuredW="722" measuredH="29" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <size>20</size>
+        <text>Identify%20the%20Brief%20purpose%20in%20%27Attributes%27%20and%20the%20data%20that%20is%20available%20in%20%27Tables%27</text>
       </controlProperties>
     </control>
   </controls>

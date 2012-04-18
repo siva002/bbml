@@ -211,10 +211,10 @@
         <text>RECEIVER</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="572" y="270" w="121" h="27" measuredW="122" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="572" y="270" w="121" h="27" measuredW="76" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
-        <text>MESSAGE%20TYPE</text>
+        <text>ORDERS</text>
       </controlProperties>
     </control>
     <control controlID="40" controlTypeID="com.balsamiq.mockups::FieldSet" x="530" y="211" w="248" h="111" measuredW="200" measuredH="170" zOrder="32" locked="false" isInGroup="-1">
