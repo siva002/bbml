@@ -1,0 +1,15 @@
+<mockup version="1.0" skin="sketch" measuredW="302" measuredH="151" mockupW="160" mockupH="67">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="164" y="97" w="138" h="54" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>Cutover%20Planning</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::CallOut" x="142" y="84" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
