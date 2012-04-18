@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" measuredW="782" measuredH="322" mockupW="658" mockupH="238">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="142" y="97" w="198" h="96" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>Cutover%20Planning</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::CallOut" x="124" y="84" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::CallOut" x="452" y="134" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="504" y="140" w="177" h="27" measuredW="184" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>20</size>
+        <text>General%20Roadmap</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::CallOut" x="454" y="207" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="506" y="213" w="177" h="27" measuredW="92" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>20</size>
+        <text>Staffing</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::CallOut" x="452" y="279" w="-1" h="-1" measuredW="38" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="504" y="285" w="278" h="27" measuredW="271" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <size>20</size>
+        <text>Hypercare%20War%20room%20Set-up</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
