@@ -67,7 +67,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Tooltip" x="3" y="190" w="205" h="89" measuredW="176" measuredH="51" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Tooltip" x="3" y="190" w="205" h="89" measuredW="176" measuredH="89" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>A%20User%20friendly%20URL.%20No%20Gibberish%20-%20No%20.php/.aspx%20extensions</text>
         <tooltipDirection>NE</tooltipDirection>
@@ -80,7 +80,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Tooltip" x="18" y="354" w="205" h="129" measuredW="201" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Tooltip" x="18" y="354" w="205" h="129" measuredW="201" measuredH="129" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>The%20Customer%20should%20be%20able%20to%20upload%20his%20own%20Custom%20Logo.%20If%20Customer%20does%20NOT%20have%20logo%2C%20then%20don%27t%20show%20Magna%20Forms%20Logo.%20We%20do%20NOT%20want%20to%20be%20intrusive</text>
         <tooltipDirection>NE</tooltipDirection>
@@ -94,7 +94,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Tooltip" x="1153" y="247" w="104" h="47" measuredW="88" measuredH="33.1" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Tooltip" x="1153" y="247" w="104" h="47" measuredW="88" measuredH="47" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>NO%20Menu</text>
         <tooltipDirection>NW</tooltipDirection>
@@ -106,7 +106,7 @@
         <text>Company%20A%20-%20Employment%20Registration%20Form</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Tooltip" x="838" y="11" w="205" h="89" measuredW="199" measuredH="67" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Tooltip" x="838" y="11" w="205" h="89" measuredW="199" measuredH="89" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>URL%20will%20be%20based%20on%20the%20Form%20Title.%20Just%20like%20the%20way%2C%20wordpress%20creates%20friendly%20titles%20based%20on%20the%20post%20title</text>
         <tooltipDirection>SW</tooltipDirection>
@@ -128,7 +128,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Tooltip" x="357" y="27" w="146" h="73" measuredW="136" measuredH="51" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Tooltip" x="357" y="27" w="146" h="73" measuredW="136" measuredH="73" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Form%20Title%20goes%20here%20and%20in%20the%20Browser%20Title%20Bar</text>
         <tooltipDirection>SE</tooltipDirection>
@@ -168,7 +168,7 @@
         <text>Date%20of%20Birth</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Tooltip" x="1153" y="483" w="232" h="100" measuredW="230" measuredH="51" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Tooltip" x="1153" y="483" w="232" h="100" measuredW="230" measuredH="100" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Fields%20can%20be%20divided%20into%20Sections%20with%20a%20Caption%20-%20%27Personal%20Details%27%20etc</text>
         <tooltipDirection>NW</tooltipDirection>
@@ -190,7 +190,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Tooltip" x="1180" y="383" w="220" h="100" measuredW="215" measuredH="67" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Tooltip" x="1180" y="383" w="220" h="100" measuredW="215" measuredH="100" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Text%20Boxes%20can%20have%20a%20Pre-set%20text%20in%20%27Grey%27%20%20that%20will%20be%20over-ridden%20if%20you%20start%20putting%20some%20text%20in%20it</text>
         <tooltipDirection>NW</tooltipDirection>
@@ -277,7 +277,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Tooltip" x="83" y="1199" w="140" h="55" measuredW="139" measuredH="89" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Tooltip" x="83" y="1199" w="140" h="55" measuredW="139" measuredH="55" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Minimalistic%20Footer</text>
         <tooltipDirection>SE</tooltipDirection>
