@@ -1,0 +1,287 @@
+<mockup version="1.0" skin="sketch" measuredW="1400" measuredH="1333" mockupW="1397" mockupH="1322">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="271" y="111" w="885" h="1222" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Company%20A%20-%20Employment%20Registration%20Form%0Ahttp%3A//www.magnaforms.com/employment-registration-form</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="275" y="184" w="875" h="73" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16770457</borderColor>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="288" y="189" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <icon>ContactsIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="275" y="1267" w="877" h="40" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>6710886</borderColor>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="401" y="273" w="633" h="825" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>15843890</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>16770457</color>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="442" y="309" w="165" h="-1" measuredW="111" measuredH="34" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>First%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="684" y="1040" w="70" h="27" measuredW="70" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <text>SUBMIT</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="372" y="1282" w="-1" h="-1" measuredW="242" measuredH="17" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16770457</color>
+        <size>10</size>
+        <text>Powered%20by%20Magna%20Forms%20-%20Your%20Online%20Form%20Builder</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="620" y="1282" w="-1" h="-1" measuredW="171" measuredH="17" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16770457</color>
+        <size>10</size>
+        <text>Terms%20and%20Conditions%20%7C%20Privacy%20Policy</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Arrow" x="202" y="150" w="225" h="40" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Tooltip" x="3" y="190" w="205" h="89" measuredW="176" measuredH="51" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20User%20friendly%20URL.%20No%20Gibberish%20-%20No%20.php/.aspx%20extensions</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Arrow" x="223" y="219" w="65" h="127" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Tooltip" x="18" y="354" w="205" h="129" measuredW="201" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Customer%20should%20be%20able%20to%20upload%20his%20own%20Custom%20Logo.%20If%20Customer%20does%20NOT%20have%20logo%2C%20then%20don%27t%20show%20Magna%20Forms%20Logo.%20We%20do%20NOT%20want%20to%20be%20intrusive</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="1120" y="216" w="73" h="31" measuredW="150" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Tooltip" x="1153" y="247" w="104" h="47" measuredW="88" measuredH="33.1" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NO%20Menu</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="442" y="202" w="-1" h="-1" measuredW="544" measuredH="37" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Company%20A%20-%20Employment%20Registration%20Form</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Tooltip" x="838" y="11" w="205" h="89" measuredW="199" measuredH="67" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>URL%20will%20be%20based%20on%20the%20Form%20Title.%20Just%20like%20the%20way%2C%20wordpress%20creates%20friendly%20titles%20based%20on%20the%20post%20title</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Arrow" x="760" y="88" w="78" h="55" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Arrow" x="497" y="100" w="99" h="105" measuredW="150" measuredH="100" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Tooltip" x="357" y="27" w="146" h="73" measuredW="136" measuredH="51" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Form%20Title%20goes%20here%20and%20in%20the%20Browser%20Title%20Bar</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::TextInput" x="646" y="309" w="158" h="-1" measuredW="127" measuredH="34" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Middle%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="854" y="309" w="140" h="-1" measuredW="112" measuredH="34" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Last%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::FieldSet" x="419" y="286" w="592" h="162" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Personal%20Details</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="427" y="286" w="584" h="147" measuredW="200" measuredH="170" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Personal%20Details</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::DateChooser" x="596" y="386" w="-1" h="-1" measuredW="144" measuredH="25" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>focused</state>
+        <text>AUG%20/%2021%20/%201977</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="448" y="384" w="-1" h="-1" measuredW="118" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Date%20of%20Birth</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Tooltip" x="1153" y="483" w="232" h="100" measuredW="230" measuredH="51" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fields%20can%20be%20divided%20into%20Sections%20with%20a%20Caption%20-%20%27Personal%20Details%27%20etc</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Arrow" x="1011" y="403" w="154" h="67" measuredW="150" measuredH="100" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Arrow" x="994" y="326" w="186" h="60" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Tooltip" x="1180" y="383" w="220" h="100" measuredW="215" measuredH="67" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Text%20Boxes%20can%20have%20a%20Pre-set%20text%20in%20%27Grey%27%20%20that%20will%20be%20over-ridden%20if%20you%20start%20putting%20some%20text%20in%20it</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Calendar" x="823" y="374" w="-1" h="-1" measuredW="96" measuredH="96" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Arrow" x="745" y="395" w="73" h="31" measuredW="150" measuredH="100" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::FieldSet" x="427" y="479" w="584" h="330" measuredW="200" measuredH="170" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Skill%20set</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Arrow" x="503" y="65" w="127" h="43" measuredW="150" measuredH="100" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::ComboBox" x="619" y="499" w="150" h="-1" measuredW="84" measuredH="84" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Good%20%0AVery%20Good%0AExcellent</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="442" y="519" w="-1" h="-1" measuredW="101" measuredH="28" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Core%20Java</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="448" y="692" w="-1" h="-1" measuredW="149" measuredH="28" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Enterprise%20Java</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="618" y="654" w="-1" h="-1" measuredW="175" measuredH="140" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>%5B%20%5D%20JSP%20/%20Servlet%0A%5Bx%5D%20JDBC%0A%5B%20%5D%20EJB%0A%5Bx%5D%20Design%20patterns%0A%5Bx%5D%20XML</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="911" y="910" w="-1" h="-1" measuredW="83" measuredH="29" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="446" y="909" w="-1" h="-1" measuredW="144" measuredH="28" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Upload%20Resume</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="808" y="910" w="-1" h="-1" measuredW="91" measuredH="29" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::TextInput" x="601" y="911" w="192" h="-1" measuredW="143" measuredH="34" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>C%3A%5Cresume.doc</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Arrow" x="198" y="1261" w="73" h="31" measuredW="150" measuredH="100" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Tooltip" x="83" y="1199" w="140" h="55" measuredW="139" measuredH="89" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Minimalistic%20Footer</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
